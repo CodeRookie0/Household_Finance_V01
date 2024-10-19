@@ -1,4 +1,4 @@
-# Household_Finance_Manager 🏡💰<br>
+# Household Finance Manager 🏡💰<br>
 **ASP.NET Core**<br>
 **SQLite**<br>
 **HTML5, CSS**<br>
