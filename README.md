@@ -4,7 +4,7 @@
 **HTML5, CSS**<br>
 
 ## Developers:<br>
-* **Miłosz Stawiński** - 
+* **Miłosz Stawiński** - [@CyberCoder2002](https://github.com/CyberCoder2002)
 * **Maria Shyliankova** - [@CodeRookie0](https://github.com/CodeRookie0)
 
 ## Project goal: <br>
