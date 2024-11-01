@@ -176,7 +176,7 @@ namespace Main.Logic
 
         public DbSqlite()
         {
-            _connectionString = "Data Source=FinanceManagerDataBase.db"; //Default DataBase 
+            _connectionString = "Data Source=../../Data/FinanceManagerDataBase.db"; //Default DataBase 
         }
         public DbSqlite(string connectionString)
         {
